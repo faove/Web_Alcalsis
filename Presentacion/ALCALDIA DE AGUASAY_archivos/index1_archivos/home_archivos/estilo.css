@@ -1,0 +1,33 @@
+.parrafo {
+	WORD-SPACING: normal; FONT: 11px Tahoma, Verdana, Arial; LETTER-SPACING: normal
+}
+.titulo1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; TEXT-TRANSFORM: uppercase; COLOR: #006699; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Tahoma, Verdana, Arial
+}
+.titulo2 {
+	FONT: bold 12px Tahoma, Verdana, Arial; TEXT-TRANSFORM: uppercase; COLOR: #339933
+}
+.textopequeño {
+	FONT-SIZE: 9px; FONT-FAMILY: Tahoma, Verdana, Arial
+}
+.links1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; TEXT-TRANSFORM: none; COLOR: #006699; FONT-FAMILY: Tahoma, Verdana, Arial; FONT-VARIANT: small-caps
+}
+.titulo3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; TEXT-TRANSFORM: none; COLOR: #006699; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Tahoma, Verdana, Arial; TEXT-ALIGN: left
+}
+.links2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 8px; TEXT-TRANSFORM: capitalize; COLOR: #0099cc; FONT-FAMILY: Tahoma, Verdana, Arial; FONT-VARIANT: normal
+}
+.encaja {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Tahoma, Verdana, Arial; BACKGROUND-COLOR: #339933
+}
+.titulo2indice {
+	FONT: bold italic 12px Tahoma, Verdana, Arial; TEXT-TRANSFORM: uppercase; COLOR: #006699
+}
+.links3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #006699
+}
+.edicion {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; FONT-FAMILY: Tahoma, Verdana, Arial; FONT-VARIANT: small-caps
+}
